@@ -1,0 +1,10 @@
+setup.py
+soil_search/__init__.py
+soil_search.egg-info/PKG-INFO
+soil_search.egg-info/SOURCES.txt
+soil_search.egg-info/dependency_links.txt
+soil_search.egg-info/requires.txt
+soil_search.egg-info/top_level.txt
+soil_search/envs/__init__.py
+soil_search/envs/outdoor_rover_reduced.py
+soil_search/envs/targets_generation.py
