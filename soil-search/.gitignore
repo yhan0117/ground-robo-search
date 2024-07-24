@@ -1,3 +1,7 @@
 build
 robo_search.egg-info
-~
+~*
+*~
+*#
+#*
+*.pyc
